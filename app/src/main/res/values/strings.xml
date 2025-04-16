@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorkEstimateApp</string>
+    <string name="select_task_type">Select Task Type</string>
+    <string name="install_door">Install Door</string>
+    <string name="build_shelf">Build Shelf</string>
+    <string name="assemble_furniture">Assemble Furniture</string>
+    <string name="select_materials">Select Materials</string>
+    <string name="wood_r500">Wood = R500</string>
+    <string name="nails_r20">Nails = R20</string>
+    <string name="hinges_r30">Hinges = R30)</string>
+    <string name="enter_hours">Enter Hours</string>
+    <string name="e_g_3">e.g. 3</string>
+    <string name="calculate_total">Calculate Total</string>
+</resources>
